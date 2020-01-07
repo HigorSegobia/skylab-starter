@@ -4,6 +4,6 @@ var endereco = {
     bairro: "Centro",
     cidade: "São Paulo",
     uf: "SP"
-   };
+};
 
-   console.log('O usuario mora em',endereco.cidade,'/',endereco.uf,'no bairro',endereco.bairro,'na rua',endereco.rua,'com nº',endereco.numero)
+console.log('O usuario mora em', endereco.cidade, '/', endereco.uf, 'no bairro', endereco.bairro, 'na rua', endereco.rua, 'com nº', endereco.numero)
